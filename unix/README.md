@@ -1,5 +1,7 @@
 # Unix Systems
-Description of unix systems
+
+## Exercises
+* [ex1.md](ex1.md)
 
 # Commands
 Use commands in the command prompt (Terminal) to do things.
@@ -14,7 +16,7 @@ Use commands in the command prompt (Terminal) to do things.
 * `cd ./` - change to the same directory (Useful for scripting)
 * `cd ../../` - chnage backwards multiple parent directories
 
-## `pwd`
+## `pwd`
 `pwd` prints the current working directory
 
 ## `ls`

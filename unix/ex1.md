@@ -28,4 +28,15 @@ Make a shell script.
 8. Change the script permissions: `chmod +x ex1b.sh`
 9. Run the script with arguments: `./ex1b.sh Fname Surname`
 
+## Exercise 1c
+Find and grep a text file. 
 
+1. Open your Terminal to the same `test-academy` directory as in 1b. 
+2. Download [`text-file.txt`](text-file.txt) and move it to the `test-academy` directory. 
+Alternatively, you can `touch` a file, and copy the contents. 
+3. Try using `find` in the directory. 
+4. Try using `grep` on the text file you downloaded.
+  * You can try `jump`, `fox`, `2022-10-20`, `14:`, etc. 
+
+## Exercise 1d
+Try top and ps in your terminal.
